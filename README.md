@@ -1,5 +1,5 @@
 # ChatAppFE
-This is the server side code of the application Steps to run the application :
+This is the Frontend code of the application Steps to run the application :
 
 1)Intsall IntelliJ
 2)Checkout the project into IntelliJ
